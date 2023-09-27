@@ -24,7 +24,7 @@
     "backo2": "1.0.2"
   },
   "devDependencies": {
-    "socket.io": "1.2.1",
+    "socket.io": "2.4.0",
     "mocha": "1.16.2",
     "zuul": "1.10.2",
     "istanbul": "0.2.1",
