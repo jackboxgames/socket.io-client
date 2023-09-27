@@ -10,7 +10,7 @@
     "client"
   ],
   "dependencies": {
-    "debug": "0.7.4",
+    "debug": "2.6.9",
     "engine.io-client": "1.4.3",
     "component-bind": "1.0.0",
     "component-emitter": "1.1.2",
